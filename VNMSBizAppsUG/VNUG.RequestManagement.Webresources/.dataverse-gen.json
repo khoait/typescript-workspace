@@ -1,0 +1,10 @@
+{
+  "entities": [
+    "vnug_request"
+  ],
+  "actions": [],
+  "functions": [],
+  "output": {
+    "outputRoot": "./src/dataverse-gen"
+  }
+}

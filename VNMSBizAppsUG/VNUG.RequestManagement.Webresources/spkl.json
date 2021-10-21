@@ -1,0 +1,21 @@
+{
+  "webresources": [
+    {
+      "profile": "default,debug",
+      "root": "",
+      "solution": "VNMSBizAppsUG",
+      "files": [
+        {
+          "uniquename": "vnug_/requestmanagement/js/sample.js",
+          "file": "vnug_\\requestmanagement\\js\\sample.js",
+          "description": ""
+        },
+        {
+          "uniquename": "vnug_/requestmanagement/js/RequestLibrary.js",
+          "file": "vnug_\\requestmanagement\\js\\RequestLibrary.js",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

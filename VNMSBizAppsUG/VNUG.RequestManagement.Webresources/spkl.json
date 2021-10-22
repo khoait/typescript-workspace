@@ -14,6 +14,36 @@
           "uniquename": "vnug_/requestmanagement/js/RequestLibrary.js",
           "file": "vnug_\\requestmanagement\\js\\RequestLibrary.js",
           "description": ""
+        },
+        {
+          "uniquename": "vnug_/requestmanagement/img/approve.svg",
+          "file": "vnug_\\requestmanagement\\img\\approve.svg",
+          "description": ""
+        },
+        {
+          "uniquename": "vnug_/requestmanagement/img/approve-16.png",
+          "file": "vnug_\\requestmanagement\\img\\approve-16.png",
+          "description": ""
+        },
+        {
+          "uniquename": "vnug_/requestmanagement/img/approve-32.png",
+          "file": "vnug_\\requestmanagement\\img\\approve-32.png",
+          "description": ""
+        },
+        {
+          "uniquename": "vnug_/requestmanagement/img/reject.svg",
+          "file": "vnug_\\requestmanagement\\img\\reject.svg",
+          "description": ""
+        },
+        {
+          "uniquename": "vnug_/requestmanagement/img/reject-16.png",
+          "file": "vnug_\\requestmanagement\\img\\reject-16.png",
+          "description": ""
+        },
+        {
+          "uniquename": "vnug_/requestmanagement/img/reject-32.png",
+          "file": "vnug_\\requestmanagement\\img\\reject-32.png",
+          "description": ""
         }
       ]
     }
